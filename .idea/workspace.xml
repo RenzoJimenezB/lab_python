@@ -5,19 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70c4a02d-06bb-4513-ad73-1a09453d0fbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Session_03/test_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_03/test_21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/classes/test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/classes/test_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/classes/test_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/classes/test_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/classes/test_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/classes/test_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/classes/test_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_04/functions/test_20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_03/test_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session_03/test_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session_03/test_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session_03/test_21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +46,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,6 +84,7 @@
     "Python.test_15.executor": "Run",
     "Python.test_16.executor": "Run",
     "Python.test_17.executor": "Run",
+    "Python.test_18.executor": "Run",
     "Python.test_19.executor": "Run",
     "Python.test_20.executor": "Run",
     "Python.test_21.executor": "Run",
@@ -77,10 +97,15 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "actions.on.save",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Session_04/functions" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="M1" />
@@ -138,7 +163,16 @@
       <workItem from="1725162327025" duration="3483000" />
       <workItem from="1725200769278" duration="599000" />
       <workItem from="1725201533661" duration="6000" />
-      <workItem from="1725209268642" duration="11084000" />
+      <workItem from="1725209268642" duration="12739000" />
+      <workItem from="1725229614878" duration="7000" />
+      <workItem from="1725403385513" duration="60000" />
+      <workItem from="1725754531542" duration="1192000" />
+      <workItem from="1725755936386" duration="406000" />
+      <workItem from="1725756346334" duration="286000" />
+      <workItem from="1725756639797" duration="182000" />
+      <workItem from="1725756830773" duration="64000" />
+      <workItem from="1725756902716" duration="2310000" />
+      <workItem from="1725759222937" duration="32554000" />
     </task>
     <servers />
   </component>
@@ -146,26 +180,27 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/M1$test_08.coverage" NAME="test_08 Coverage Results" MODIFIED="1725211734519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_21.coverage" NAME="test_21 Coverage Results" MODIFIED="1725220371824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_05.coverage" NAME="test_05 Coverage Results" MODIFIED="1725210859819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1725209511774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$main.coverage" NAME="main Coverage Results" MODIFIED="1725209376012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/M1$test_14.coverage" NAME="test_14 Coverage Results" MODIFIED="1725218099228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1725210835505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_07.coverage" NAME="test_07 Coverage Results" MODIFIED="1725213181298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_17.coverage" NAME="test_17 Coverage Results" MODIFIED="1725216386324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_13.coverage" NAME="test_13 Coverage Results" MODIFIED="1725220020726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_03.coverage" NAME="test_03 Coverage Results" MODIFIED="1725210533712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_19.coverage" NAME="test_19 Coverage Results" MODIFIED="1725219480142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_06.coverage" NAME="test_06 Coverage Results" MODIFIED="1725211187948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_09.coverage" NAME="test_09 Coverage Results" MODIFIED="1725211976246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_10.coverage" NAME="test_10 Coverage Results" MODIFIED="1725212360113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_16.coverage" NAME="test_16 Coverage Results" MODIFIED="1725219189878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_12.coverage" NAME="test_12 Coverage Results" MODIFIED="1725213392453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_20.coverage" NAME="test_20 Coverage Results" MODIFIED="1725219536146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1725209989522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_11.coverage" NAME="test_11 Coverage Results" MODIFIED="1725212623470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
-    <SUITE FILE_PATH="coverage/M1$test_15.coverage" NAME="test_15 Coverage Results" MODIFIED="1725218536821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
+    <SUITE FILE_PATH="coverage/M1$test_21.coverage" NAME="test_21 Coverage Results" MODIFIED="1725769739578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
+    <SUITE FILE_PATH="coverage/M1$test_08.coverage" NAME="test_08 Coverage Results" MODIFIED="1725813711861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_05.coverage" NAME="test_05 Coverage Results" MODIFIED="1725833282318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04/classes" />
+    <SUITE FILE_PATH="coverage/M1$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1725818573583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04/classes" />
+    <SUITE FILE_PATH="coverage/M1$main.coverage" NAME="main Coverage Results" MODIFIED="1725768886192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/M1$test_14.coverage" NAME="test_14 Coverage Results" MODIFIED="1725813368577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1725834707421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04/classes" />
+    <SUITE FILE_PATH="coverage/M1$test_07.coverage" NAME="test_07 Coverage Results" MODIFIED="1725823045666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04/classes" />
+    <SUITE FILE_PATH="coverage/M1$test_17.coverage" NAME="test_17 Coverage Results" MODIFIED="1725814634444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_13.coverage" NAME="test_13 Coverage Results" MODIFIED="1725813313300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_19.coverage" NAME="test_19 Coverage Results" MODIFIED="1725815032571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_03.coverage" NAME="test_03 Coverage Results" MODIFIED="1725831534168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04/classes" />
+    <SUITE FILE_PATH="coverage/M1$test_09.coverage" NAME="test_09 Coverage Results" MODIFIED="1725809592231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_06.coverage" NAME="test_06 Coverage Results" MODIFIED="1725835699886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04/classes" />
+    <SUITE FILE_PATH="coverage/M1$test_10.coverage" NAME="test_10 Coverage Results" MODIFIED="1725811342782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_16.coverage" NAME="test_16 Coverage Results" MODIFIED="1725813822231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_12.coverage" NAME="test_12 Coverage Results" MODIFIED="1725812618805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_18.coverage" NAME="test_18 Coverage Results" MODIFIED="1725814753165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_20.coverage" NAME="test_20 Coverage Results" MODIFIED="1725816530462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1725831525044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04/classes" />
+    <SUITE FILE_PATH="coverage/M1$test_11.coverage" NAME="test_11 Coverage Results" MODIFIED="1725811827790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_04" />
+    <SUITE FILE_PATH="coverage/M1$test_15.coverage" NAME="test_15 Coverage Results" MODIFIED="1725775370483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Session_03" />
   </component>
 </project>

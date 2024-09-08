@@ -9,5 +9,5 @@ var_1 = {
 
 keys = sorted(var_1)
 
-print(f"unsroted dictionary: {var_1}")
+print(f"unsorted dictionary: {var_1}")
 print(f"sorted dictionary: {keys}")

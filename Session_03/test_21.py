@@ -32,17 +32,19 @@ print(my_dictionary)
 """
 
 my_dictionary = {
-    "Usuario": usuario,
-    "Nombre": nombre,
-    "Apellido": apellido,
-    "Distrito": distrito,
-    "Bono": bono
+    "usuario": usuario,
+    "nombre": nombre,
+    "apellido": apellido,
+    "distrito": distrito,
+    "bono": bono
 }
 
 print(my_dictionary)
 
-name = nombre
+"""name = nombre
 last_name = apellido
-bonus = bono
+bonus = bono"""
+
+name, last_name, bonus = nombre, apellido, bono
 
 print(f"{name} {last_name} recibirá {bonus} soles de bono de fin de año")
